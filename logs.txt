@@ -1,0 +1,89 @@
+2025-09-26 17:35:46 - Rania Salem added a drug.
+2025-09-26 17:41:35 - Rania Salem checked expiry status of a drug.
+2025-09-26 17:48:04 - Rania Salem checked expiry status of a drug.
+2025-09-26 18:05:57 - Omar Nabil generated report.
+2025-09-26 18:12:12 - Omar Nabil added a drug.
+2025-09-26 18:58:07 - Omar Nabil added a drug.
+2025-09-26 19:07:01 - Omar Nabil added a drug.
+2025-09-26 19:07:20 - Omar Nabil updated a drug information.
+2025-09-26 19:08:05 - Omar Nabil updated a drug information.
+2025-09-26 19:08:21 - Omar Nabil searched for a drug.
+2025-09-26 19:08:38 - Omar Nabil searched for a drug.
+2025-09-26 19:08:53 - Omar Nabil checked expiry status of a drug.
+2025-09-26 19:11:38 - Omar Nabil checked conditions for a drug.
+2025-09-26 19:11:51 - Omar Nabil generated report.
+2025-09-26 19:53:20 - Mariam Fathy added a drug.
+2025-09-26 19:53:30 - Mariam Fathy removed a drug.
+2025-09-26 19:53:46 - Mariam Fathy removed a drug.
+2025-09-26 19:54:58 - Mariam Fathy added a drug.
+2025-09-26 19:55:29 - Mariam Fathy added a drug.
+2025-09-26 19:56:11 - Mariam Fathy added a drug.
+2025-09-26 19:56:55 - Mariam Fathy added a drug.
+2025-09-26 19:57:36 - Mariam Fathy updated a drug information.
+2025-09-26 19:57:47 - Mariam Fathy searched for a drug.
+2025-09-26 19:58:05 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 19:59:20 - Mariam Fathy checked conditions for a drug.
+2025-09-26 19:59:29 - Mariam Fathy generated report.
+2025-09-26 20:01:35 - Mariam Fathy viewed log file.
+2025-09-26 20:02:15 - Mariam Fathy removed a drug.
+2025-09-26 20:02:25 - Mariam Fathy generated report.
+2025-09-26 20:03:38 - Mariam Fathy updated a drug information.
+2025-09-26 20:03:41 - Mariam Fathy generated report.
+2025-09-26 20:04:28 - Mariam Fathy updated a drug information.
+2025-09-26 20:04:30 - Mariam Fathy generated report.
+2025-09-26 20:30:24 - Mariam Fathy updated a drug information.
+2025-09-26 20:30:52 - Mariam Fathy added a drug.
+2025-09-26 20:31:02 - Mariam Fathy searched for a drug.
+2025-09-26 20:32:05 - Mariam Fathy searched for a drug.
+2025-09-26 20:32:32 - Mariam Fathy removed a drug.
+2025-09-26 20:33:04 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 20:33:26 - Mariam Fathy checked conditions for a drug.
+2025-09-26 20:33:32 - Mariam Fathy generated report.
+2025-09-26 20:34:07 - Mariam Fathy viewed log file.
+2025-09-26 20:34:39 - Mariam Fathy updated a drug information.
+2025-09-26 20:34:44 - Mariam Fathy generated report.
+2025-09-26 22:00:53 - Mariam Fathy added a drug.
+2025-09-26 22:01:31 - Mariam Fathy updated a drug information.
+2025-09-26 22:02:13 - Mariam Fathy updated a drug information.
+2025-09-26 22:02:54 - Mariam Fathy updated a drug information.
+2025-09-26 22:04:39 - Mariam Fathy updated a drug information.
+2025-09-26 22:04:53 - Mariam Fathy searched for a drug.
+2025-09-26 22:05:05 - Mariam Fathy searched for a drug.
+2025-09-26 22:05:18 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 22:06:40 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:07:06 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:07:13 - Mariam Fathy generated report.
+2025-09-26 22:08:23 - Mariam Fathy viewed log file.
+2025-09-26 22:08:54 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 22:09:14 - Mariam Fathy generated report.
+2025-09-26 22:10:24 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 22:10:30 - Mariam Fathy generated report.
+2025-09-26 22:11:12 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 22:11:15 - Mariam Fathy generated report.
+2025-09-26 22:11:53 - Mariam Fathy generated report.
+2025-09-26 22:14:17 - Mariam Fathy generated report.
+2025-09-26 22:18:05 - Mariam Fathy generated report.
+2025-09-26 22:18:46 - Mariam Fathy generated report.
+2025-09-26 22:26:32 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:32:51 - Mariam Fathy checked expiry status of a drug.
+2025-09-26 22:33:24 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:34:56 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:35:15 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:36:19 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:42:45 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:44:33 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:44:44 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:46:45 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:56:28 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:57:30 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:57:55 - Mariam Fathy checked conditions for a drug.
+2025-09-26 22:59:31 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:03:13 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:03:38 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:04:43 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:10:27 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:20:30 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:20:40 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:20:57 - Mariam Fathy checked conditions for a drug.
+2025-09-26 23:54:18 - Mariam Fathy generated report.
+2025-09-26 23:55:14 - Mariam Fathy checked expiry status of a drug.
